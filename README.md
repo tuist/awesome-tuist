@@ -26,3 +26,4 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Our Journey to Generated Projects](https://www.ackee.cz/blog/en/tuist-our-journey-to-generated-projects/)
 - [The Magic of Generating an Xcode Project](https://developers.soundcloud.com/blog/tuist-project-generation)
 - [Solving modularised iOS project challenges by adopting project generation](https://medium.com/@daniell.jankowskii/solving-modularised-ios-project-challenges-by-adopting-project-generation-eda9cd1ee3bd)
+- [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/)
