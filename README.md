@@ -19,7 +19,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Open source projects
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
-
+- [The Composable Microfeature Architecture](https://github.com/TYRONEMICHAEL/tuist-composable-architecture)
 ## Blog posts
 
 - [First touches of using Tuist for Xcode Project generation](https://medium.com/swlh/first-touches-of-using-tuist-for-xcode-project-generation-f46c630bc29b)
