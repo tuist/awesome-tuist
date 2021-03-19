@@ -15,11 +15,13 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Defining dependencies in Tuist](https://www.youtube.com/watch?v=KHDNKdSKnkw&t=294s)
 - [Introduction to Tuist](https://www.youtube.com/watch?v=wCVPWJvJGng&t=1s)
 - [Xcode Project Generation](https://www.youtube.com/watch?v=Bxt37t_twug&t=216s)
+- [Scaling iOS Codebase](https://blog.houzz.com/scaling-ios-codebase/)
 
 ## Open source projects
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
 - [The Composable Microfeature Architecture](https://github.com/TYRONEMICHAEL/tuist-composable-architecture)
+
 ## Blog posts
 
 - [First touches of using Tuist for Xcode Project generation](https://medium.com/swlh/first-touches-of-using-tuist-for-xcode-project-generation-f46c630bc29b)
