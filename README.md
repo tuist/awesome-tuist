@@ -32,6 +32,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Gerando Xcode Project com Tuist](https://deciomontanhani.com.br/gerando-xcodeproj-com-tuist/)
 - [Xcode Project Generation: A Primer](https://jsorge.net/2021/03/15/xcode-project-generation-a-primer)
 - [Modular Apps with a Tuist](https://medium.com/@ronan.ociosoig/modular-apps-with-a-tuist-8fdd8d3fd4bb)
+- [Tool-managed Xcodeproj](https://www.thoughtworks.com/radar/techniques/tool-managed-xcodeproj)
 
 ## Podcasts
 
