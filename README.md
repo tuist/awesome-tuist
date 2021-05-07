@@ -21,6 +21,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
 - [The Composable Microfeature Architecture](https://github.com/TYRONEMICHAEL/tuist-composable-architecture)
+- [Katana: Swift apps in a swoosh](https://github.com/BendingSpoons/katana-swift)
+- [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 
 ## Blog posts
 
