@@ -40,3 +40,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
 - [Tuist with Pedro Piñera Buendía](https://thebakery.dev/08/)
+
+## Videos
+
+- [Introduction to Tuist](https://www.youtube.com/watch?v=wCVPWJvJGng)
+- [Tuist App signing ](https://www.youtube.com/watch?v=WGKp1EHcpME)
+- [Generating binaries from third-party package dependencies and linking them](https://www.youtube.com/watch?v=D5sVLZanAJU)
