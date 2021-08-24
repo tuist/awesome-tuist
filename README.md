@@ -35,7 +35,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Xcode Project Generation: A Primer](https://jsorge.net/2021/03/15/xcode-project-generation-a-primer)
 - [Modular Apps with a Tuist](https://medium.com/@ronan.ociosoig/modular-apps-with-a-tuist-8fdd8d3fd4bb)
 - [Tool-managed Xcodeproj](https://www.thoughtworks.com/radar/techniques/tool-managed-xcodeproj)
-
+- [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode)
 ## Podcasts
 
 - [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
