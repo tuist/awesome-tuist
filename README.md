@@ -23,6 +23,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [The Composable Microfeature Architecture](https://github.com/TYRONEMICHAEL/tuist-composable-architecture)
 - [Katana: Swift apps in a swoosh](https://github.com/BendingSpoons/katana-swift)
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
+- [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 
 ## Blog posts
 
@@ -36,6 +37,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Modular Apps with a Tuist](https://medium.com/@ronan.ociosoig/modular-apps-with-a-tuist-8fdd8d3fd4bb)
 - [Tool-managed Xcodeproj](https://www.thoughtworks.com/radar/techniques/tool-managed-xcodeproj)
 - [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode)
+- [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
+
 ## Podcasts
 
 - [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
