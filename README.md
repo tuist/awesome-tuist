@@ -39,6 +39,15 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode)
 - [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
 
+### Sarunw
+
+- [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/)
+- [What is the difference between Tuist init and scaffold](https://sarunw.com/posts/what-is-the-difference-between-tuist-init-and-scaffold/)
+- [Tuist scaffold: How to use the Tuist template to create a new module for an ongoing project](https://sarunw.com/posts/tuist-scaffold/)
+- [Tuist init: How to use Tuist templates to bootstrap your project](https://sarunw.com/posts/tuist-init/)
+- [Tuist Template: What is it and how to create them](https://sarunw.com/posts/tuist-template/)
+- [How to add a unit test target to a Tuist project](https://sarunw.com/posts/how-to-add-unit-test-target-to-tuist-project/)
+
 ## Podcasts
 
 - [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
@@ -49,3 +58,4 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Introduction to Tuist](https://www.youtube.com/watch?v=wCVPWJvJGng)
 - [Tuist App signing ](https://www.youtube.com/watch?v=WGKp1EHcpME)
 - [Generating binaries from third-party package dependencies and linking them](https://www.youtube.com/watch?v=D5sVLZanAJU)
+
