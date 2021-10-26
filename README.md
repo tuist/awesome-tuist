@@ -59,3 +59,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tuist App signing ](https://www.youtube.com/watch?v=WGKp1EHcpME)
 - [Generating binaries from third-party package dependencies and linking them](https://www.youtube.com/watch?v=D5sVLZanAJU)
 - [Using binary caching with Tuist to speed up builds](https://www.youtube.com/watch?v=Qq7E3YlPJog)
+
+## Templates
+
+- [SwiftCLITemplate](https://github.com/dfreniche/SwiftCLITemplate)
