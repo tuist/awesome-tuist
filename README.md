@@ -16,6 +16,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Introduction to Tuist](https://www.youtube.com/watch?v=wCVPWJvJGng&t=1s)
 - [Xcode Project Generation](https://www.youtube.com/watch?v=Bxt37t_twug&t=216s)
 - [Scaling iOS Codebase](https://blog.houzz.com/scaling-ios-codebase/)
+- [Bruno Bilescky - Scaling your app](https://nslondon.com/#bruno-bilescky-scaling-your-app)
 
 ## Open source projects
 
