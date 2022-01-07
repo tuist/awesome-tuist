@@ -39,6 +39,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tool-managed Xcodeproj](https://www.thoughtworks.com/radar/techniques/tool-managed-xcodeproj)
 - [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode)
 - [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
+- [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 
 ### Sarunw
 
