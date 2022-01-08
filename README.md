@@ -38,6 +38,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Modular Apps with a Tuist](https://medium.com/@ronan.ociosoig/modular-apps-with-a-tuist-8fdd8d3fd4bb)
 - [Tool-managed Xcodeproj](https://www.thoughtworks.com/radar/techniques/tool-managed-xcodeproj)
 - [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode)
+- [Build Templates For Code Generation](https://ronanociosoig.medium.com/build-templates-for-code-generation-with-tuist-497656e3f6a5)
 - [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
 - [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 
