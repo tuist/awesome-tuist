@@ -51,6 +51,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tuist Template: What is it and how to create them](https://sarunw.com/posts/tuist-template/)
 - [How to add a unit test target to a Tuist project](https://sarunw.com/posts/how-to-add-unit-test-target-to-tuist-project/)
 
+## CI building blocks
+- [appcircle-tuist-component](https://github.com/appcircleio/appcircle-tuist-component)
+
 ## Podcasts
 
 - [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
