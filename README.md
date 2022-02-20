@@ -41,6 +41,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Build Templates For Code Generation](https://ronanociosoig.medium.com/build-templates-for-code-generation-with-tuist-497656e3f6a5)
 - [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
 - [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
+- [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92)
 
 ### Sarunw
 
