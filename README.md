@@ -25,6 +25,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Katana: Swift apps in a swoosh](https://github.com/BendingSpoons/katana-swift)
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
+- [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
 
 ## Blog posts
 
