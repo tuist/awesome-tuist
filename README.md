@@ -26,6 +26,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
+- [Bootcamp Graduation Project - Meal App](https://github.com/baris-cakmak/TechCareerGraduationProject-VIPER)
 
 ## Blog posts
 
@@ -43,6 +44,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Unifying Tuist Projects](https://ronanociosoig.medium.com/unifying-tuist-projects-80abc226d756)
 - [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92)
+- [Composition Root and Service-Locator Pattern in Tuist’s µFeatures Architecture with Swinject and Factory Libraries](https://peacelighter.medium.com/composition-root-and-service-locator-pattern-in-tuists-%C2%B5features-architecture-with-swinject-and-9ce8e5854d87)
 
 ### Sarunw
 
