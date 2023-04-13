@@ -29,6 +29,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 ## Blog posts
 
+- [Real-World Xcode Project Using Tuist](https://getstream.io/blog/real-world-xcode-tuist/)
 - [First touches of using Tuist for Xcode Project generation](https://medium.com/swlh/first-touches-of-using-tuist-for-xcode-project-generation-f46c630bc29b)
 - [Our Journey to Generated Projects](https://www.ackee.cz/blog/en/tuist-our-journey-to-generated-projects/)
 - [The Magic of Generating an Xcode Project](https://developers.soundcloud.com/blog/tuist-project-generation)
