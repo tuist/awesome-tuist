@@ -6,6 +6,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [Talks](https://github.com/tuist/awesome-tuist#official)
 - [Open source projects](https://github.com/tuist/awesome-tuist#open-source-projects)
+- [Tools](https://github.com/tuist/awesome-tuist#tools)
 - [Blog posts](https://github.com/tuist/awesome-tuist#blog-posts)
 
 ## Talks
@@ -28,6 +29,10 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
 - [Stripe SDK](https://github.com/stripe/stripe-ios)
+
+## Tools
+
+- [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
 
 ## Blog posts
 
