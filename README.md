@@ -33,6 +33,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Tools
 
 - [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
+- [Cloak: Encrypt and obfuscate secrets for Swift apps](https://github.com/lordcodes/cloak-swift)
+- [SwiftHooks: Share Git hooks between contributors](https://github.com/lordcodes/swifthooks)
 
 ## Blog posts
 
