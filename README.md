@@ -76,6 +76,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Generating binaries from third-party package dependencies and linking them](https://www.youtube.com/watch?v=D5sVLZanAJU)
 - [Using binary caching with Tuist to speed up builds](https://www.youtube.com/watch?v=Qq7E3YlPJog)
 - [A story about graphs and Xcode projects](https://www.youtube.com/watch?v=CxLtm1depZs)
+- [Tuist | Open Source iOS Project | Mentorship | Day in the life of a Software Engineer | İstanbul](https://www.youtube.com/watch?v=rzTY7La1HWA)
+
 
 ## Templates
 
