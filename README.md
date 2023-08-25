@@ -33,6 +33,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Tools
 
 - [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
+- [Homebrew Tap](https://github.com/vanyauhalin/homebrew-tuist)
 
 ## Blog posts
 
