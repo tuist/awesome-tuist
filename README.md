@@ -54,7 +54,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92)
 - [Getting started with Tuist for Xcode project generation and modularization on iOS](https://www.runway.team/blog/getting-started-with-tuist-for-xcode-project-generation-and-modularization-on-ios)
-
+- [How to build a Tuist plugin and publish it using SPM and version control](https://www.runway.team/blog/how-to-build-a-tuist-plugin-and-publish-it-using-spm-and-version-control)
+  
 ### Sarunw
 
 - [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/)
