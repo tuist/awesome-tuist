@@ -20,7 +20,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Bruno Bilescky - Scaling your app](https://nslondon.com/#bruno-bilescky-scaling-your-app)
 - [Tuist, the tool you missed](https://youtu.be/GIr_rk-FUFY)
 - [Simplify Modular Project Generation with Tuist - Hamin Song - Seoul iOS Meetup](https://www.youtube.com/watch?v=chsMQCDfyDs)
-
+- [From Challenge to Joy: My Journey Developing Tuist for Scalable Xcode Projects](https://www.youtube.com/watch?v=BqKBnFTiWQg)
+  
 ## Open source projects
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
