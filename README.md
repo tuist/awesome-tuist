@@ -30,7 +30,6 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
-- [Stripe SDK](https://github.com/stripe/stripe-ios)
 
 ## Tools
 
