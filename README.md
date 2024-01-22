@@ -86,3 +86,4 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Templates
 
 - [SwiftCLITemplate](https://github.com/dfreniche/SwiftCLITemplate)
+- [SwiftUITemplate](https://github.com/haifengkao/SwiftUITemplate)
