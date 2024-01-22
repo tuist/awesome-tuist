@@ -19,7 +19,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Scaling iOS Codebase](https://blog.houzz.com/scaling-ios-codebase/)
 - [Bruno Bilescky - Scaling your app](https://nslondon.com/#bruno-bilescky-scaling-your-app)
 - [Tuist, the tool you missed](https://youtu.be/GIr_rk-FUFY)
-
+- [Simplify Modular Project Generation with Tuist - Hamin Song - Seoul iOS Meetup](https://www.youtube.com/watch?v=chsMQCDfyDs)
+- [From Challenge to Joy: My Journey Developing Tuist for Scalable Xcode Projects](https://www.youtube.com/watch?v=BqKBnFTiWQg)
+  
 ## Open source projects
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
@@ -28,11 +30,11 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
-- [Stripe SDK](https://github.com/stripe/stripe-ios)
 
 ## Tools
 
 - [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
+- [TuistAutoGen](https://github.com/naldal/TuistAutoGen)
 
 ## Blog posts
 
@@ -52,7 +54,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Goodbye Moya & Alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92)
 - [Optimising iOS builds with Tuist and Codemagic CI/CD](https://blog.codemagic.io/ios-app-caching-using-tuist-and-codemagic/)
-
+- [Getting started with Tuist for Xcode project generation and modularization on iOS](https://www.runway.team/blog/getting-started-with-tuist-for-xcode-project-generation-and-modularization-on-ios)
+- [How to build a Tuist plugin and publish it using SPM and version control](https://www.runway.team/blog/how-to-build-a-tuist-plugin-and-publish-it-using-spm-and-version-control)
+  
 ### Sarunw
 
 - [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/)
@@ -83,3 +87,4 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Templates
 
 - [SwiftCLITemplate](https://github.com/dfreniche/SwiftCLITemplate)
+- [SwiftUITemplate](https://github.com/haifengkao/SwiftUITemplate)
