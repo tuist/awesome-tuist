@@ -56,6 +56,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Optimising iOS builds with Tuist and Codemagic CI/CD](https://blog.codemagic.io/ios-app-caching-using-tuist-and-codemagic/)
 - [Getting started with Tuist for Xcode project generation and modularization on iOS](https://www.runway.team/blog/getting-started-with-tuist-for-xcode-project-generation-and-modularization-on-ios)
 - [How to build a Tuist plugin and publish it using SPM and version control](https://www.runway.team/blog/how-to-build-a-tuist-plugin-and-publish-it-using-spm-and-version-control)
+- [Scaling iOS at Bumble: Part 1/3 — The Challenges](https://medium.com/bumble-tech/scaling-ios-at-bumble-76754fa874f7)
+- [Scaling iOS at Bumble: Part 2/3 — The Assessment](https://medium.com/bumble-tech/scaling-ios-at-bumble-239e0fa009f2)
+- [Scaling iOS at Bumble: Part 3/3 — Results and Developer Quality of Life](https://medium.com/@jonathan.crooke/scaling-ios-at-bumble-6f0602682903)
   
 ### Sarunw
 
