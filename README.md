@@ -21,7 +21,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tuist, the tool you missed](https://youtu.be/GIr_rk-FUFY)
 - [Simplify Modular Project Generation with Tuist - Hamin Song - Seoul iOS Meetup](https://www.youtube.com/watch?v=chsMQCDfyDs)
 - [From Challenge to Joy: My Journey Developing Tuist for Scalable Xcode Projects](https://www.youtube.com/watch?v=BqKBnFTiWQg)
-  
+- [Challenges of Using Xcode at Scale - Pedro Piñera - Seoul iOS Meetup [March 2024]](https://www.youtube.com/watch?v=rh7gDpvXH2I)
+
 ## Open source projects
 
 - [SwiftUI + TCA Example](https://github.com/lm2s/Texther)
