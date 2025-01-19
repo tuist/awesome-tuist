@@ -7,6 +7,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Talks](https://github.com/tuist/awesome-tuist#official)
 - [Open source projects](https://github.com/tuist/awesome-tuist#open-source-projects)
 - [Tools](https://github.com/tuist/awesome-tuist#tools)
+- [Plugins](https://github.com/tuist/awesome-tuist#plugins)
 - [Blog posts](https://github.com/tuist/awesome-tuist#blog-posts)
 
 ## Talks
@@ -36,6 +37,10 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
 - [TuistAutoGen](https://github.com/naldal/TuistAutoGen)
+
+## Plugins
+
+- [Code Signing Plugin](https://github.com/apps4everyone/tuist-plugin-signing)
 
 ## Blog posts
 
