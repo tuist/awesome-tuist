@@ -37,6 +37,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [asdf-tuist](https://github.com/cprecioso/asdf-tuist)
 - [TuistAutoGen](https://github.com/naldal/TuistAutoGen)
+- [XCFolder](https://github.com/ZhgChgLi/XCFolder)
 
 ## Plugins
 
