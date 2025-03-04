@@ -66,7 +66,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Scaling iOS at Bumble: Part 1/3 — The Challenges](https://medium.com/bumble-tech/scaling-ios-at-bumble-76754fa874f7)
 - [Scaling iOS at Bumble: Part 2/3 — The Assessment](https://medium.com/bumble-tech/scaling-ios-at-bumble-239e0fa009f2)
 - [Scaling iOS at Bumble: Part 3/3 — Results and Developer Quality of Life](https://medium.com/@jonathan.crooke/scaling-ios-at-bumble-6f0602682903)
-  
+- [Upgrading Tuist Version](https://toyboy2.medium.com/upgrading-tuist-version-d53a0f37f402)
+
 ### Sarunw
 
 - [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/)
