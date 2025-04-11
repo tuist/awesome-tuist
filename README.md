@@ -94,6 +94,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [A story about graphs and Xcode projects](https://www.youtube.com/watch?v=CxLtm1depZs)
 - [Tuist | Open Source iOS Project | Mentorship | Day in the life of a Software Engineer | İstanbul](https://www.youtube.com/watch?v=rzTY7La1HWA)
 - [Why Tuist? Streamlining Your iOS Project Setup](https://www.youtube.com/watch?v=CnsY_P8Y934)
+- [Scaling iOS DevX with Tuist](https://www.youtube.com/watch?v=HybqYfIpIqc)
 
 ## Templates
 
