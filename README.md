@@ -42,6 +42,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Plugins
 
 - [Code Signing Plugin](https://github.com/apps4everyone/tuist-plugin-signing)
+- [TuistUI Plugin](https://github.com/jihoonme/tuistui)
 
 ## Blog posts
 
