@@ -83,7 +83,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 ## Podcasts
 
-- [Automation Fun with Jared Sorge](https://share.transistor.fm/s/bab83e8a)
+- [EmpowerApps.Show - Automation Fun with Jared Sorge](https://brightdigit.com/episodes/084-automation-fun-with-jared-sorge/)
+- [EmpowerApps.Show - Supercharged with Pedro Piñera](https://brightdigit.com/episodes/154-supercharged-with-pedro-pinera/)
 - [Tuist with Pedro Piñera Buendía](https://thebakery.dev/08/)
 
 ## Videos
