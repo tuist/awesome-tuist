@@ -1,6 +1,6 @@
 # awesome-tuist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A community-driven collection of Tuist related blog posts, tasks, projects, and more.
@@ -128,6 +128,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://blog.jihoon.me"><img src="https://avatars.githubusercontent.com/u/68891494?v=4?s=100" width="100px;" alt="Jihoon Ahn"/><br /><sub><b>Jihoon Ahn</b></sub></a><br /><a href="https://github.com/tuist/awesome-tuist/commits?author=jihoonahn" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://medium.com/@toyboy2"><img src="https://avatars.githubusercontent.com/u/16129260?v=4?s=100" width="100px;" alt="leesam"/><br /><sub><b>leesam</b></sub></a><br /><a href="#content-2sem" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
