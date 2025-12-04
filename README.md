@@ -79,6 +79,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Upgrading Tuist Version](https://toyboy2.medium.com/upgrading-tuist-version-d53a0f37f402)
 - [Migrating a Large iOS White-Label Project to Tuist: A Developer’s Journey](https://medium.com/@vitalikfedun/migrating-a-large-ios-white-label-project-to-tuist-a-developers-journey-4eccb65ca5d6)
 - [Turn Swift into a CLI Powerhouse with Swift Package Manager](https://medium.com/@vitalikfedun/turn-swift-into-a-cli-powerhouse-with-swift-package-manager-e800c67cbc99) by @vit008
+- [Resolving “Multiple commands produce” caused by xcdatamodeld on Tuist](https://medium.com/@toyboy2/resolving-multiple-commands-produce-caused-by-xcdatamodeld-on-tuist-2622a0036a2e) by @2sem
 
 ### Sarunw
 
