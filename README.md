@@ -81,6 +81,18 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Turn Swift into a CLI Powerhouse with Swift Package Manager](https://medium.com/@vitalikfedun/turn-swift-into-a-cli-powerhouse-with-swift-package-manager-e800c67cbc99) by @vit008
 - [Resolving “Multiple commands produce” caused by xcdatamodeld on Tuist](https://medium.com/@toyboy2/resolving-multiple-commands-produce-caused-by-xcdatamodeld-on-tuist-2622a0036a2e) by @2sem
 - [Implicit Dependencies, Broken Graphs, and Architectural Integrity in Modular iOS System](https://theinkedengineer.com/insights/implicit-dependencies-broken-raphs-and-architectural-integrity-in-modular-ios-system)
+- [Setting up Tuist 4 to your existing project](https://medium.com/@toyboy2/setting-tuist-to-your-exist-project-9136882c0d85) by @2sem
+- [Setting up TCA for your project with Tuist](https://medium.com/@toyboy2/setting-up-tca-for-your-existing-project-with-tuist-7d3443dde540) by @2sem
+- [SwiftData Modularization with TCA in Tuist](https://medium.com/@toyboy2/swiftdata-modularization-with-tca-in-tuist-7650b71caf6f) by @2sem
+- [Tuisting The Oldest iOS Project](https://medium.com/@toyboy2/tuisting-the-oldest-ios-project-dd42340ab739) by @2sem
+- [Excluding Files from Tuist Project Target](https://medium.com/@toyboy2/excluding-files-from-tuist-project-target-337d7aae956c) by @2sem
+- [Adding a directory into Tuist as a Reference](https://medium.com/@toyboy2/adding-a-directory-into-tuist-as-a-reference-a379de247dcc) by @2sem
+- [TuistString+App can’t solve \”](https://medium.com/@toyboy2/tuiststring-app-cant-solve-5e2be961575e) by @2sem
+- [The selected Xcode version is 16.2, which is not compatible with this project’s Xcode version requirement of 14.0.0.](https://medium.com/@toyboy2/the-selected-xcode-version-is-16-2-83306eac49e2) by @2sem
+- [Upgrading Tuist Version](https://medium.com/@toyboy2/upgrading-tuist-version-d53a0f37f402) by @2sem
+- [Seems to be a very old project file format — please open your project file in a more recent version of Xcode](https://medium.com/@toyboy2/seems-to-be-a-very-old-project-file-format-please-open-your-project-file-in-a-more-recent-b239f77a240a) by @2sem
+- [Speed up iOS Build using Caching on Tuist](https://medium.com/@toyboy2/speed-up-ios-build-using-cache-on-tuist-c37e38f081bf) by @2sem
+- [Resolving Swift Packages faster With Registry from Tuist](https://medium.com/@toyboy2/resolving-swift-packages-faster-with-registry-from-tuist-0bfb797c33c2) by @2sem
 
 ### Sarunw
 
