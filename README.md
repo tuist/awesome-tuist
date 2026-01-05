@@ -41,6 +41,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Tempura: a holistic approach to iOS development](https://github.com/BendingSpoons/tempura-swift)
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
+- [zen-example-tma](https://github.com/dotaeva/zen-example-tma): A demo project showcasing usage of Zen SPM in Tuist-generated project using The Modular Architecture
 
 ## Tools
 
