@@ -57,6 +57,9 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 ## Blog posts
 
 - [Real-World Xcode Project Using Tuist](https://getstream.io/blog/real-world-xcode-tuist/)
+- [Back Market x Tuist - Part I: Why We Moved Our iOS Project To Tuist](https://engineering.backmarket.com/back-market-x-tuist-part-i-why-we-moved-our-ios-project-to-tuist-f161cf914700)
+- [Back Market x Tuist II: How We Migrated Our iOS Project From SwiftPM to Tuist](https://engineering.backmarket.com/back-market-x-tuist-ii-how-we-migrated-our-ios-project-from-swiftpm-to-tuist-cef9ecc88c8c)
+- [Back Market x Tuist Part III: How We Enforce Our Modularization Strategy With Tuist](https://engineering.backmarket.com/back-market-x-tuist-part-iii-how-we-enforce-our-modularization-strategy-with-tuist-1c82fd5115a9)
 - [First touches of using Tuist for Xcode Project generation](https://medium.com/swlh/first-touches-of-using-tuist-for-xcode-project-generation-f46c630bc29b)
 - [Our Journey to Generated Projects](https://www.ackee.cz/blog/en/tuist-our-journey-to-generated-projects/)
 - [The Magic of Generating an Xcode Project](https://developers.soundcloud.com/blog/tuist-project-generation)
