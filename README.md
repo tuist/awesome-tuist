@@ -42,6 +42,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Pokedex](https://github.com/ronanociosoig/tuist-pokedex)
 - [Sendbird Chat SDK Sample for iOS](https://github.com/sendbird/sendbird-chat-sample-ios)
 - [zen-example-tma](https://github.com/dotaeva/zen-example-tma): A demo project showcasing usage of Zen SPM in Tuist-generated project using The Modular Architecture
+- [ICTMDBAppTuist](https://github.com/engingulek/ICTMDBAppTuist):  TMDB TV is a modular application built using a list of TMDB TV shows, leveraged and managed by Tuist to provide a scalable and efficient development environment 
 
 ## Tools
 
