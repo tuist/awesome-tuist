@@ -7,6 +7,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 ## Table of Contents
 
+- [Learning resources](https://github.com/tuist/awesome-tuist#learning-resources)
 - [Talks](https://github.com/tuist/awesome-tuist#official)
 - [Open source projects](https://github.com/tuist/awesome-tuist#open-source-projects)
 - [Tools](https://github.com/tuist/awesome-tuist#tools)
@@ -18,6 +19,8 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Videos](https://github.com/tuist/awesome-tuist#videos)
 - [Templates](https://github.com/tuist/awesome-tuist#templates)
 
+## Learning resources
+- [fuckingapproachableswiftconcurrency](https://fuckingapproachableswiftconcurrency.com/)
 
 ## Talks
 
