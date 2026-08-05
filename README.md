@@ -57,6 +57,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 
 - [Code Signing Plugin](https://github.com/apps4everyone/tuist-plugin-signing)
 - [TuistUI Plugin](https://github.com/jihoonme/tuistui)
+- [Detect Imports Plugin](https://github.com/ryanmeisters/tuist-plugin-detect-imports)
 
 ## Blog posts
 
