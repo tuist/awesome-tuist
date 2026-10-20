@@ -102,6 +102,7 @@ A community-driven collection of Tuist related blog posts, tasks, projects, and 
 - [Seems to be a very old project file format — please open your project file in a more recent version of Xcode](https://medium.com/@toyboy2/seems-to-be-a-very-old-project-file-format-please-open-your-project-file-in-a-more-recent-b239f77a240a) by @2sem
 - [Speed up iOS Build using Caching on Tuist](https://medium.com/@toyboy2/speed-up-ios-build-using-cache-on-tuist-c37e38f081bf) by @2sem
 - [Resolving Swift Packages faster With Registry from Tuist](https://medium.com/@toyboy2/resolving-swift-packages-faster-with-registry-from-tuist-0bfb797c33c2) by @2sem
+- [Streamlining Xcode Project Management with Appcircle and Tuist Integration](https://appcircle.io/blog/resolving-xcode-project-conflicts-with-tuist)
 
 ### Sarunw
 
